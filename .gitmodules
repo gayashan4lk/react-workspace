@@ -1,0 +1,45 @@
+[submodule "react-testing-library-jest-cypress"]
+	path = react-testing-library-jest-cypress
+	url = git@github.com:gayashan4lk/react-testing-library-jest-cypress.git
+[submodule "react-testing-jest"]
+	path = react-testing-jest
+	url = git@github.com:gayashan4lk/react-testing-jest.git
+[submodule "react-hook-form"]
+	path = react-hook-form
+	url = git@github.com:gayashan4lk/react-hook-form.git
+[submodule "react-router-app"]
+	path = react-router-app
+	url = git@github.com:gayashan4lk/react-router-app.git
+[submodule "react-dashboard-ui"]
+	path = react-dashboard-ui
+	url = git@github.com:gayashan4lk/react-dashboard-ui.git
+[submodule "react-basic-training"]
+	path = react-basic-training
+	url = git@github.com:gayashan4lk/react-basic-training.git
+[submodule "react-cheatsheet"]
+	path = react-cheatsheet
+	url = git@github.com:gayashan4lk/react-cheatsheet.git
+[submodule "react-hooks-app"]
+	path = react-hooks-app
+	url = git@github.com:gayashan4lk/react-hooks-app.git
+[submodule "react-context-app"]
+	path = react-context-app
+	url = git@github.com:gayashan4lk/react-context-app.git
+[submodule "react-tic-tac-toe"]
+	path = react-tic-tac-toe
+	url = git@github.com:gayashan4lk/react-tic-tac-toe.git
+[submodule "react-material-ui"]
+	path = react-material-ui
+	url = git@github.com:gayashan4lk/react-material-ui.git
+[submodule "react-hooks-app-01"]
+	path = react-hooks-app-01
+	url = git@github.com:gayashan4lk/react-hooks-app-01.git
+[submodule "react-axios-app"]
+	path = react-axios-app
+	url = git@github.com:gayashan4lk/react-axios-app.git
+[submodule "react-hooks-app-02"]
+	path = react-hooks-app-02
+	url = git@github.com:gayashan4lk/react-hooks-app-02.git
+[submodule "react-redux-basic"]
+	path = react-redux-basic
+	url = git@github.com:gayashan4lk/react-redux-basic.git

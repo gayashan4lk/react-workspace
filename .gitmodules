@@ -43,3 +43,6 @@
 [submodule "react-redux-basic"]
 	path = react-redux-basic
 	url = git@github.com:gayashan4lk/react-redux-basic.git
+[submodule "react-my-appoinment"]
+	path = react-my-appoinment
+	url = git@github.com:gayashan4lk/react-my-appoinment.git
